@@ -10,7 +10,7 @@ As a budding enthusiast in Information Technology, I'm on a mission to carve my 
 B.Tech  - Shri Ramswaroop Memorial College of Engineering and Management
 
 💡 **Projects**
-- 🌐 [Frontend Restaurant Website using React](link-to-repo): Crafted an interactive website with React, showcasing menus, special offers, and more.
+- 🌐 [Frontend Restaurant Website using React](https://github.com/vanshika308/restaurant-website): Crafted an interactive website with React, showcasing menus, special offers, and more.
   
 🌱 **Skills & Interests**
 - Languages: C++, Python, JavaScript, Java (DSA)
